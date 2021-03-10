@@ -9,9 +9,9 @@
 
  - The dataset folder should be organized as follows:
 
->  datasets  
-├── img
-├── gt
+     >  datasets  
+         ├── img
+         ├── gt
 
  - Then run the following command to train the model:
 
