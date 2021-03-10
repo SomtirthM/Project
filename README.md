@@ -7,11 +7,14 @@
      ```
 
 
- - The dataset folder should be organized as follows:
+ - The dataset folder should be organized with the images and groudtruth as follows:
 
      >  datasets  
          ├── img
+         
          ├── gt
+         
+     
 
  - Then run the following command to train the model:
 
